@@ -4,5 +4,5 @@ states = {
           "westbengal"  => "WB"
          }  
 puts states ["karnataka"]
-
+puts states ["maharastra"]
 
